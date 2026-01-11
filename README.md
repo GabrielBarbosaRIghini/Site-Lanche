@@ -59,43 +59,41 @@ site-teste/
    git clone https://github.com/gabrielbarbosarighini/site-teste.git
 Entre na pasta do projeto:
 
-bash
+bash --
 Copiar código
 cd site-teste
 Instale as dependências:
 
-bash
+bash ---
 Copiar código
 npm install
 Rode o servidor de desenvolvimento:
 
-bash
+bash ---
 Copiar código
 npm run dev
 📦 Build e Deploy
 Para gerar a versão de produção:
 
-bash
+bash ---
 Copiar código
 npm run build
 Para publicar no GitHub Pages:
 
-bash
+bash ---
 Copiar código
 npm run deploy
+
+---
+
 📌 Status do Projeto
 Projeto em desenvolvimento / finalizado para fins de estudo e portfólio.
 
 Possíveis melhorias futuras:
-
 Consumo de API real
-
 Estado global (Context ou Redux)
-
 Testes automatizados
-
 Melhorias de acessibilidade
-
 SEO básico para SPA
 
 👤 Autor
